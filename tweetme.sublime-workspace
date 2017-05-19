@@ -1,0 +1,205 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/yourway_chu/repos/tweetme",
+		"/Users/yourway_chu/repos/tweetme/src",
+		"/Users/yourway_chu/repos/tweetme/src/tweetme"
+	],
+	"file_history":
+	[
+		"/Users/yourway_chu/luwak/aegis.log",
+		"/private/var/folders/_w/6xv1dhvx0v500vkyr_fxry3m0000gn/T/com.microsoft.Outlook/Outlook Temp/String2Lower.groovy",
+		"/Users/yourway_chu/Desktop/test"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ACTMON_PROCESS_EVENT",
+			"1002",
+			"ENG_ACT_PASS",
+			"1003",
+			"Load Image",
+			"2530",
+			"2191",
+			"3027",
+			"tb_iae_distlogs",
+			"tb_aggr_for_exclusive_va",
+			"tb_iae_distlogs",
+			"tb_retro_scan_detail_logs",
+			"tb_sandbox_feedback",
+			"tb_dae_logs",
+			"tb_tmufe",
+			"tb_tmufe_logs",
+			"from tb_iae_distlogs",
+			"tb_iae_distlogs",
+			"SLF_PFW_EVT_TYPE_IDS",
+			"SLF_DETECTION_TYPE_FILE_BLOCKING",
+			"SLF_PFW_ACTION_ACCEPT",
+			"SLF_SEVCODE_CRITICAL",
+			"CCCA",
+			"CCCA_GLOBAL_LIST",
+			"SLF_CCCA_GLOBAL_LIST",
+			"CCCA_GLOBAL_LIST",
+			"SLF_CCCA_GLOBAL_LIST",
+			"LuwakAgent_SenderGUID\nLuwakAgent_SenderIP\nLuwakAgent_SourceGUID\nLuwakAgent_SourceIP\nLuwakAgent_ProductName\nLuwakAgent_ProductVersion\nLuwakAgent_ProtocolVersion\nLuwakAgent_Folder\n\n\nLog_11\nLog_1001\nLog_2021\nLog_2055\nLog_2008\nLog_2014\nLog_2056\nLog_2057\nLog_2058\nLog_2059\nLog_2001\nLog_2002\nLog_2060\nLog_2061\nLog_2062\nLog_2068\nLog_2069\nLog_2070\nLog_2071\nLog_1133\nLog_2072\nLog_2073\nLog_2074\nLog_2075\nLog_2076\nLog_2077\nLog_2078\nLog_2079\nLog_2080"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tweetme.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"temp",
+				"0.\tSLF_MsgType\tX_UINT32\tThe log type.Must exist\tSC"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
